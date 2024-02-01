@@ -16,7 +16,7 @@ EVENT_LENGTHS = [30]
 
 def open_energy_dataset(country, folder):
     """Opens the energy dataset for a given country."""
-    file_path = os.path.join(folder, f'{country}_{RUNNAME}.nc')
+    file_path = os.path.join(folder, f'/{country}_{RUNNAME}.nc')
     return xr.open_dataset(file_path)
 
 def select_season_data(dataset, season):
