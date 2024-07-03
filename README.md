@@ -1,12 +1,13 @@
 # energydroughts-Europe
 
+
 ## Overview
 
-energydroughts-Europe is a repository dedicated to the analysis of energy droughts as a result from processes that cause (temporally) compounding impacts in the energy and meteorological system as discussed in the paper titled "Temporally compounding energy droughts in European electricity systems with hydropower".
+energydroughts-Europe is a repository dedicated to the analysis of energy droughts as a result from processes that cause (temporally) compounding impacts in the energy and meteorological system as discussed in the paper titled "Temporally compounding energy droughts in European electricity systems with hydropower". This work has been accepted for publication in Nature Energy. 
 
+## Citing
+If you use this code, or adapt it for your work, please cite our publication. Lieke van der Most, Karin van der Wiel, Winnie Gerbens-Leenes et al. Temporally compounding energy droughts in European electricity systems with hydropower, 10 January 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3796061/v1]
 
-## Anonymity for Review
-This repository is currently anonymous for double-blind review purposes. Upon completion of the review process, it will be published under the personal account of the author(s). If you are reviewing this repository and require any specific information or have questions, please reach out through the appropriate channels of journal.
 
 ## Repository Structure
 
@@ -34,9 +35,10 @@ python select_PEDs.py
 python risk_ratios.py
 ```
 
-# Future Contact
-Post-review, this project will be moved to the personal GitHub account of the author(s). Future updates and correspondence will take place there. Watch this space for the updated link post-review.
+# questions or Contributions to this work
+Contributions to this work are appreciated and encouraged.
 
+To contribute an update or if you have any other questions feel free to contact me.
 
 
 
