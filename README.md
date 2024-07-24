@@ -3,7 +3,7 @@
 
 ## Overview
 
-energydroughts-Europe is a repository dedicated to the analysis of energy droughts as a result from processes that cause (temporally) compounding impacts in the energy and meteorological system as discussed in the paper titled "Temporally compounding energy droughts in European electricity systems with hydropower". This work has been accepted for publication in Nature Energy. 
+energydroughts-Europe is a repository dedicated to the analysis of energy droughts as a result from processes that cause (temporally) compounding impacts in the energy and meteorological system as discussed in the paper titled "Temporally compounding energy droughts in European electricity systems with hydropower". This work has been accepted in principle for publication in Nature Energy. 
 
 ## Citing
 If you use this code, or adapt it for your work, please cite our publication. van der Most et al. Temporally compounding energy droughts in European electricity systems with hydropower, 10 January 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3796061/v1]
